@@ -8,8 +8,6 @@ I design and build digital products, from the first interaction to production. M
 
 ## Currently building
 
-<a href="https://mactokyo.com/"><img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/mactokyo-banner.svg" alt="MacTokyo — my independent apps and tools, crafted in Tokyo." width="1200"></a>
-
 I build independent apps and tools, taking ideas from design through implementation.
 
 ### [Classic Companion](https://github.com/xtymac/ClassicCompanion)

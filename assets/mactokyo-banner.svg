@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">MacTokyo — Independent apps and tools, crafted in Tokyo.</title>
+  <desc id="desc">Warm ivory lettering on charcoal, with the MacTokyo italic M and vermilion dot.</desc>
+  <rect width="1200" height="360" rx="16" fill="#1B1917"/>
+  <text x="60" y="67" fill="#BBB5AC" font-family="Helvetica, sans-serif" font-size="15" letter-spacing="3">DESIGN + ENGINEERING · TOKYO</text>
+  <text x="56" y="158" fill="#FAF9F6" font-family="Georgia, serif" font-size="78">MacTokyo<tspan fill="#B5341F">.</tspan></text>
+  <text x="60" y="216" fill="#FAF9F6" font-family="Helvetica, sans-serif" font-size="25">Independent apps and tools,</text>
+  <text x="60" y="252" fill="#FAF9F6" font-family="Helvetica, sans-serif" font-size="25">crafted in Tokyo.</text>
+  <path d="M60 294H780" stroke="#49433C"/>
+  <text x="60" y="325" fill="#BBB5AC" font-family="Helvetica, sans-serif" font-size="15">BY MAC XIANG</text>
+  <text x="660" y="325" fill="#BBB5AC" font-family="Helvetica, sans-serif" font-size="15">mactokyo.com</text>
+  <path d="M844 56V304" stroke="#49433C"/>
+  <text x="879" y="245" font-family="Georgia, serif" font-style="italic" font-size="198" fill="#FAF9F6">M</text>
+  <circle cx="1109" cy="226" r="22" fill="#B5341F"/>
+</svg>
