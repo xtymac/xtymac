@@ -14,6 +14,8 @@ I build independent apps and tools, taking ideas from design through implementat
 
 A native macOS companion for the official ChatGPT website, designed to keep a conversation close while you work.
 
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/poster-en.png" alt="Classic Companion — One press away. Native macOS chat windows with the Option Space shortcut." width="960">
+
 - **One shortcut away.** Press **⌥ Space** to bring up your chat without searching through browser tabs.
 - **Room for different tasks.** Use a compact window for a quick question, or switch to the full window for a longer conversation.
 - **A familiar experience.** Sign in to ChatGPT and use its official web interface inside a native macOS window.
