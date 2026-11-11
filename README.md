@@ -1,16 +1,16 @@
 # Hi, I’m Mac Xiang.
 
-**Product designer & engineer in Tokyo. Creator of [MacTokyo](https://github.com/mactokyo).**
+**Product designer & engineer in Tokyo.**
 
 I design and build digital products, from the first interaction to production. My work brings together UX/UI, frontend engineering, and AI product design, with attention to the small details that make everyday tools easier to use.
 
 [Portfolio](https://mactokyo.com/) · [Contact](https://mactokyo.com/contact/)
 
-## Building at MacTokyo
+## Currently building
 
-<a href="https://github.com/mactokyo"><img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/mactokyo-banner.svg" alt="MacTokyo — my independent apps and tools, crafted in Tokyo." width="1200"></a>
+<a href="https://mactokyo.com/"><img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/mactokyo-banner.svg" alt="MacTokyo — my independent apps and tools, crafted in Tokyo." width="1200"></a>
 
-MacTokyo is where I build independent apps and tools, taking ideas from design through implementation.
+I build independent apps and tools, taking ideas from design through implementation.
 
 ### [Classic Companion](https://github.com/xtymac/ClassicCompanion)
 
