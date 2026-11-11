@@ -6,6 +6,8 @@ Product designer & engineer in Tokyo. Creator of [MacTokyo](https://github.com/m
 
 ## Currently building
 
+<a href="https://github.com/mactokyo"><img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/mactokyo-banner.svg" alt="MacTokyo — my independent apps and tools, crafted in Tokyo." width="1200"></a>
+
 **[Classic Companion](https://github.com/mactokyo/ClassicCompanion)** — ChatGPT in a native macOS window, one **⌥ Space** away.
 
 [![Classic Companion repository stars](https://img.shields.io/github/stars/mactokyo/ClassicCompanion?style=flat&label=Stars&color=B5341F)](https://github.com/mactokyo/ClassicCompanion/stargazers)
