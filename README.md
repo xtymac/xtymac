@@ -20,7 +20,7 @@ A native macOS companion for the official ChatGPT website, designed to keep a co
 - **Room for different tasks.** Use a compact window for a quick question, or switch to the full window for a longer conversation.
 - **A familiar experience.** Sign in to ChatGPT and use its official web interface inside a native macOS window.
 
-**[Try the beta →](https://github.com/mactokyo/ClassicCompanion/releases)**
+**[Try the beta →](https://github.com/mactokyo/ClassicCompanion/releases)** · [Source · Apache-2.0](https://github.com/mactokyo/ClassicCompanion-App)
 
 [![Classic Companion repository stars](https://img.shields.io/github/stars/mactokyo/ClassicCompanion?style=flat&label=Stars&color=B5341F)](https://github.com/mactokyo/ClassicCompanion/stargazers)
 
